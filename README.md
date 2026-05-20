@@ -10,6 +10,9 @@ This repository contains datasets and a churn modeling notebook for customer chu
 ## Key files
 
 - `part3/churn_model.ipynb` - main notebook for building and evaluating the churn model.
+- `eda_audit.ipynb` - exploratory data analysis and audit notebook.
+- `data_quality_report.md` - data quality findings and recommendations.
+- `business_memo.md` - business-level summary and stakeholder recommendations.
 - `part3/error_analysis.md` - review of false positives and false negatives.
 - `part3/model_card.md` - model summary and evaluation details.
 - `part3/metrics.json` - model performance metrics.

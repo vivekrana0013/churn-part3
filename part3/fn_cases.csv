@@ -1,0 +1,8 @@
+recency_days,frequency_180d,monetary_180d,return_rate_180d,avg_discount_pct_180d,avg_rating_180d,category_diversity_180d,ticket_count_90d,negative_ticket_rate_90d,avg_resolution_hours_90d,days_since_signup,sessions_30d,product_views_30d,cart_adds_30d,wishlist_adds_30d,abandoned_carts_30d,email_opens_30d,campaign_clicks_30d,last_visit_days_ago,city_tier,age_group,acquisition_channel,loyalty_tier,preferred_category,marketing_consent,churn_next_60d,split,customer_id,pred_proba,pred_class
+14,3,2456.91,0.0,0.287,3.33,2,0,0.0,0.0,564,6,18,1,1,0,0,0,6,0,0,2,2,5,0,1,test,CUST00184,0.01444827323286615,0
+59,4,3877.77,0.0,0.225,4.5,3,0,0.0,0.0,231,11,29,3,3,2,4,1,7,1,0,1,3,4,1,1,test,CUST01990,0.026894224698896282,0
+13,2,1358.99,0.0,0.15,4.5,2,0,0.0,0.0,552,2,8,1,0,1,0,0,7,1,1,0,1,0,0,1,test,CUST01655,0.05536692441691932,0
+99,2,2035.62,0.0,0.15,4.0,2,0,0.0,0.0,298,13,62,4,3,2,7,1,27,1,3,5,1,3,1,1,test,CUST01253,0.06609916896172832,0
+57,3,1929.3,0.0,0.29,3.67,3,0,0.0,0.0,419,0,0,0,0,0,0,0,15,0,0,5,3,4,1,1,test,CUST01826,0.0711461934091111,0
+20,1,627.36,0.0,0.4,4.0,1,0,0.0,0.0,197,3,8,2,1,1,0,0,1,1,0,5,1,3,1,1,test,CUST00592,0.09038121661568486,0
+26,1,1280.71,0.0,0.06,5.0,1,0,0.0,0.0,159,5,21,1,1,1,0,0,1,2,1,5,1,3,0,1,test,CUST00866,0.11588671462690808,0
